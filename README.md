@@ -12,3 +12,13 @@ echo "# Chat-Application" >> README.md
 1. git remote add origin https://github.com/ketap07/Chat-Application.git
 2. git branch -M main
 3. git push -u origin main
+
+## git config
+
+**Git to check the who is the user of git**
+1. git config user.name  
+2. git config user.email 
+
+**To add config of git**
+1. git config --global user.name "Your Name"
+2. git config --global user.email "your.email@example.com"
